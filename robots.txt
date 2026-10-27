@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duongducquan.github.io/DuongDucQuan/sitemap.xml
